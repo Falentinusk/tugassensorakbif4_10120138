@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">10120158_Maps</string>
+    <string name="profile">Profile</string>
+    <string name="note">Notes</string>
+    <string name="info">Info</string>
+    <string name="txt_welcome">Tugas Sensor Oleh Nerisa Sampa Guita</string>
+    <string name="txt_intro">Aplikasi ini dibuat Untuk Tugas Mata Kuliah AKB.</string>
+    <string name="txt_intro2">Aplikasi ini memiliki menu Lokasi Saat ini , Profil , Restoran terdekat dan informasi tentang Aplikasi .</string>
+    <string name="memo">Tips menggunakan aplikasi cari lokasi</string>
+    <string name="penjelasan"> Untuk Mencari Restoran Terdekat, tekan logo My location di navigation bar, maka akan muncul fitur Map, kemudian terima permintaan location, setelah itu, tekan tombol nearby di menu, kemudian tekan "cari restoran", maka akan muncul 5 macam restoran terdekat </string>
+
+</resources>
